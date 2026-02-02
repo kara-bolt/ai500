@@ -1,0 +1,149 @@
+[
+  {
+    "address": "0x0b3e328455c4059EEb9e3f84b5543F74E24e7E1b",
+    "symbol": "VIRTUAL",
+    "weight": 1713,
+    "marketCap": "634585976",
+    "rank": 1
+  },
+  {
+    "address": "0xacfE6019Ed1A7Dc6f7B508C02d1b04ec88cC21bf",
+    "symbol": "VVV",
+    "weight": 1707,
+    "marketCap": "170124116",
+    "rank": 2
+  },
+  {
+    "address": "0x4F9Fd6Be4a90f2620860d680c0d4d5Fb53d1A825",
+    "symbol": "AIXBT",
+    "weight": 1707,
+    "marketCap": "24190595",
+    "rank": 3
+  },
+  {
+    "address": "0x55cD6469F597452B5A7536e2CD98fDE4c1247ee4",
+    "symbol": "LUNA",
+    "weight": 1707,
+    "marketCap": "10893718",
+    "rank": 4
+  },
+  {
+    "address": "0x1C4CcA7C5DB003824208aDDA61Bd749e55F463a3",
+    "symbol": "GAME",
+    "weight": 1707,
+    "marketCap": "9131500",
+    "rank": 5
+  },
+  {
+    "address": "0xC2427Bf51d99b6ED0dA0Da103bC51235638eE868",
+    "symbol": "BOT",
+    "weight": 1038,
+    "marketCap": "3793292",
+    "rank": 6
+  },
+  {
+    "address": "0xE183b1A4DD59Ca732211678EcA1836EE35bCE582",
+    "symbol": "DICK",
+    "weight": 353,
+    "marketCap": "1291536",
+    "rank": 7
+  },
+  {
+    "address": "0xD98832e8a59156AcBEe4744B9A94A9989a728f36",
+    "symbol": "AGENT",
+    "weight": 46,
+    "marketCap": "253353",
+    "rank": 8
+  },
+  {
+    "address": "0xF5Bc3439f53A45607cCaD667AbC7DAF5A583633F",
+    "symbol": "AGENT",
+    "weight": 0,
+    "marketCap": "57861",
+    "rank": 9
+  },
+  {
+    "address": "0x0c8f4c83f2ba16B2A44A81f56fAB9b83A41b4c33",
+    "symbol": "BOT",
+    "weight": 0,
+    "marketCap": "48308",
+    "rank": 10
+  },
+  {
+    "address": "0x3cB08bc62241EDE8E4d6981713ff6b37002E1322",
+    "symbol": "BOT",
+    "weight": 0,
+    "marketCap": "37473",
+    "rank": 11
+  },
+  {
+    "address": "0x4B1A1838584D117B7AA07fD07411ba1683FC3B07",
+    "symbol": "agent",
+    "weight": 0,
+    "marketCap": "33208",
+    "rank": 12
+  },
+  {
+    "address": "0xd72fCf409b79ae7A92D0A22d6DD176A46cF60b07",
+    "symbol": "AGENT",
+    "weight": 0,
+    "marketCap": "28146",
+    "rank": 13
+  },
+  {
+    "address": "0x99926046978e9fB6544140982fB32cddC7e86b07",
+    "symbol": "KARA",
+    "weight": 22,
+    "marketCap": "26584",
+    "rank": 14
+  },
+  {
+    "address": "0x2598c30330D5771AE9F983979209486aE26dE875",
+    "symbol": "AI",
+    "weight": 0,
+    "marketCap": "25801",
+    "rank": 15
+  },
+  {
+    "address": "0xb11589675c4E04E061502fc38810CE3Fe680EB07",
+    "symbol": "LLM",
+    "weight": 0,
+    "marketCap": "24270",
+    "rank": 16
+  },
+  {
+    "address": "0x3D662547e839889cE1928C4964c51e99f9e9Ab07",
+    "symbol": "LLM",
+    "weight": 0,
+    "marketCap": "23763",
+    "rank": 17
+  },
+  {
+    "address": "0xF80bf9A020e6d01B3Ec77C452c4Eb0795B835B07",
+    "symbol": "agent",
+    "weight": 0,
+    "marketCap": "23685",
+    "rank": 18
+  },
+  {
+    "address": "0x62cAce5fB03EA497185363B7C9d75046dFA0eb07",
+    "symbol": "BOT",
+    "weight": 0,
+    "marketCap": "22734",
+    "rank": 19
+  },
+  {
+    "address": "0x497636A7863681a76c60E0501C2e4D6F59F1DB07",
+    "symbol": "AGENT",
+    "weight": 0,
+    "marketCap": "22727",
+    "rank": 20
+  },
+  {
+    "address": "0xDdA0e23c92e52bd45Fc9Bf09f199C114b864Eb07",
+    "symbol": "AGENT",
+    "weight": 0,
+    "marketCap": "22388",
+    "rank": 21
+  }
+]

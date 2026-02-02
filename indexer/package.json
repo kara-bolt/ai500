@@ -1,0 +1,25 @@
+{
+  "name": "ai500-indexer",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsx src/index.ts",
+    "fetch": "tsx src/fetch-tokens.ts",
+    "weights": "tsx src/calculate-weights.ts",
+    "merkle": "tsx src/build-merkle.ts"
+  },
+  "dependencies": {
+    "ethers": "^6.9.0",
+    "axios": "^1.6.0",
+    "@uniswap/sdk-core": "^4.0.0",
+    "merkletreejs": "^0.3.11",
+    "keccak256": "^1.0.6"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.0",
+    "tsx": "^4.7.0",
+    "@types/node": "^20.10.0"
+  }
+}

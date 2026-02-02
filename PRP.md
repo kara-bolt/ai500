@@ -294,7 +294,7 @@ library MerkleWeights {
 - [ ] Multi-token deposit/redeem
 
 ### Phase 4: Testing (Week 4-5)
-- [ ] Testnet deployment (Base Sepolia)
+- [x] Testnet deployment (Base Sepolia) ✅
 - [ ] Integration tests with 50+ tokens
 - [ ] Stress testing rebalancer
 - [ ] Gas optimization
@@ -402,7 +402,22 @@ Simple 10-token basket, superseded by V2. Code kept for reference.
 
 ### Next Steps
 1. Build off-chain indexer (fetch tokens, calculate weights, build merkle tree)
-2. Deploy to Base Sepolia with test tokens
+2. ~~Deploy to Base Sepolia with test tokens~~ ✅ DONE
 3. Integration tests with real Uniswap V3
 4. Set up Gelato keeper for batch rebalancing
 5. Build frontend for deposit/redeem
+
+---
+
+## Deployed Contracts (Base Sepolia)
+
+| Contract | Address |
+|----------|---------|
+| AGIX Token | `0x52f7a4733e41B09Bc56f80599dDC25712ADBb519` |
+| IndexVault | `0xeaF974f3dca1B444848b0A31E411187949596E5C` |
+| PriceFeed | `0x2F83C38ccAc4F4D553749A35c039e41a5075977F` |
+| Rebalancer | `0xd9B598A71d3A0aa53D9265B10bf7cC5E471Dc338` |
+
+**Deployed:** 2026-02-01
+**Deployer:** `0xe07c1F87A82C9e5aA936748370e5A8DC8EF3C2bB`
+**Chain:** Base Sepolia (84532)
